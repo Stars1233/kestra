@@ -1092,6 +1092,6 @@
     "export_to_file": "ファイルにエクスポート",
     "change state current state": "現在のステータスは:",
     "create_dashboard": "ダッシュボードを作成",
-    "instance": "インスタンス"
+    "instance": "Instance"
   }
 }

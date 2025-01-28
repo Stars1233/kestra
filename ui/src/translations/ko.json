@@ -1092,6 +1092,6 @@
     "export_to_file": "파일로 내보내기",
     "change state current state": "현재 상태는:",
     "create_dashboard": "대시보드 생성",
-    "instance": "인스턴스"
+    "instance": "Instance"
   }
 }
